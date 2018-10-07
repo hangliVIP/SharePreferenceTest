@@ -1,0 +1,3 @@
+# SharePreferenceTest
+Android的数据库演示
+实现了Android SQLite的使用入门
